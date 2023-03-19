@@ -4,7 +4,7 @@
 
 // Mając do dyspozycji poniższą listę imion:
 
-let names = ['Jan', 'Grzegorz', 'Krzysztof', 'Maciej', 'Joanna', 'Izabela', 'Magdalena', 'Kinga', 'Kacper']
+let names = ['Jan', 'Grzegorz', 'Krzysztof', 'Maciej', 'Maria', 'Izabela', 'Magdalena', 'Kinga', 'Kacper']
 
 // //, odwołaj się kolejno do:
 // pierwszego,
@@ -136,3 +136,4 @@ console.log(sum / pieces)
 
 let difference = ages[ages.length - 1] - ages[0]
 console.log(difference)
+
