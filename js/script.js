@@ -4,7 +4,7 @@
 
 // Mając do dyspozycji poniższą listę imion:
 
-let names = ['Jan', 'Grzegorz', 'Krzysztof', 'Maciej', 'Joanna', 'Izabela', 'Magdalena', 'Kinga', 'Kacper']
+let names = ['Jan', 'Grzegorz', 'Krzysztof', 'Maciej', 'Maria', 'Izabela', 'Magdalena', 'Kinga', 'Kacper']
 
 // //, odwołaj się kolejno do:
 // pierwszego,
@@ -64,7 +64,7 @@ console.log(random[random.length - 1])
 // Zadeklaruj pustą tablicę i umieść w niej 5 dowolnych nazw firm IT, które poda użytkownik. Użyj pętli.
 
 let companies = []
-let companiesToPush = ['GoCode', 'Devs-Mentoring.pl', 'Google', 'RandomCode', 'WwwIt']
+let companiesToPush = ['GoCode', 'Devs-Mentoring.pl', 'Google', 'RandomCode', 'WwwwIt']
 companiesToPush.forEach(item => {
 	companies.push(item)
 })
